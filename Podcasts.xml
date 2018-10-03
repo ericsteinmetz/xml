@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<channel>
+<link>http://local.connectwise.com/rss/podcasts</link>
+<language>en-us</language>
+<copyright>&#xA9;2013</copyright>
+<webMaster>your@email.com (Your Name)</webMaster>
+<managingEditor>your@email.com (Your Name)</managingEditor>
+<image>
+<title>ConnectWise</title>
+<url>https://www.connectwise.com/-/media/b3c4236bdc454b9f8b18beea6bba4fe7.png</url>
+<link>https://connectwise.com</link>
+</image>
+<itunes:owner>
+<itunes:name>ConnectWise</itunes:name>
+<itunes:email>PR@ConnectWise.com</itunes:email>
+</itunes:owner>
+<itunes:category text="Education">
+<itunes:category text="Higher Education" />
+</itunes:category>
+<itunes:keywords>separate, by, comma, and, space</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://www.connectwise.com/-/media/b3c4236bdc454b9f8b18beea6bba4fe7.png"/>
+<title>ConnectWise Podcasts</title>
+<itunes:author>ConnectWise</itunes:author>
+<description>ConnectWise podcasts bring you the best conversations in the industry.</description>
+<itunes:summary>ConnectWise transforms how Technology Teams build, manage, and grow their businesses.</itunes:summary>
+<itunes:subtitle>ConnectWise podcasts bring you the best conversations in the industry.</itunes:subtitle>
+<item>
+<title>Verbose title of the episode</title>
+<description>Verbose description of the episode.</description>
+<itunes:summary>Duplicate of above verbose description.</itunes:summary>
+<itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
+<itunes:duration>H:MM:SS</itunes:duration>
+</item>
+</channel>
+</rss>
